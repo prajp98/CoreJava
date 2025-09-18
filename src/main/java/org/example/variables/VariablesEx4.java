@@ -1,4 +1,4 @@
-package org.example;
+package org.example.variables;
 
 public class VariablesEx4 {
     static char a;

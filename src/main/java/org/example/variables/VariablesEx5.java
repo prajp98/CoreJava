@@ -1,4 +1,4 @@
-package org.example;
+package org.example.variables;
 
 public class VariablesEx5 {
     int a;

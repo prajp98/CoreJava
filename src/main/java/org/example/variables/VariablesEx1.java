@@ -1,4 +1,4 @@
-package org.example;
+package org.example.variables;
 
 public class VariablesEx1 {
     public static void main(String[] args){
