@@ -42,7 +42,13 @@ public class ListEx4 {
         System.out.println(al4.containsAll(al41));
 
         //remove all of al4 stuff from al41
-        al41.removeAll(al4);
+//        al41.removeAll(al4);
+//        for(Emp4 em2 : al41){
+//            System.out.println(em2.eid+" "+em2.ename);
+//        }
+
+        //Retain all stuff of al4 in al41 and remove others
+        al41.retainAll(al4);
         for(Emp4 em2 : al41){
             System.out.println(em2.eid+" "+em2.ename);
         }
