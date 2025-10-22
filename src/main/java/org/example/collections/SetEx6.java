@@ -42,6 +42,5 @@ public class SetEx6 {
 
         System.out.println(t2);
 
-
     }
 }
