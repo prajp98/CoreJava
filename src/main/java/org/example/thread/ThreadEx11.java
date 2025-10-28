@@ -8,7 +8,7 @@ class ThreadDemo11 extends Thread{
 public class ThreadEx11 {
     public static void main(String[] args) {
         ThreadDemo11 t11 = new ThreadDemo11();
-        //Monitors currently running thread
+        //Continuously monitors currently running thread
         //Using runtime class
         //If there is normal/abnormal termination
         //Hook thread is executed in the next second
